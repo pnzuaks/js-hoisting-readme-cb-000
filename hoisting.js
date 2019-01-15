@@ -5,7 +5,7 @@ function callMe() {
   console.log("so call me");
   var lyric = "maybe";
   return lyric;
-  
+
 }
 
 
@@ -13,7 +13,7 @@ function crazy() {
   // fix the code in here:
   thisIsCrazy();
 
-  var thisIsCrazy = function (){
+  thisIsCrazy = function (){
     console.log("hey!!!")
   }
 }
