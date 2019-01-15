@@ -21,11 +21,12 @@ function crazy() {
 
 function sayMyName() {
   // fix the code in here:
-  var name = "Cricky";
+  var name
+  name = "Cricky";
 
   function sayMy() {
     console.log(name);
-    var name = "Kristin";
+    name = "Kristin";
   }
   // return sayMy();
 
