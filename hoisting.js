@@ -30,6 +30,5 @@ function sayMyName() {
   }
 
   sayMy();
-
-
 }
+sayMyName();
